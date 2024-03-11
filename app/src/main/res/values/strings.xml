@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hide Navigation Bar</string>
+
+    <string name="x" >X</string>
+    <string name="auto_camera_on">A</string>
+    <string name="do_photo">PHOTO</string>
+    <string name="camera_cancel">BREAK</string>
+    <string name="menu_exit">EXIT</string>
+</resources>
